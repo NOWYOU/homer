@@ -30,7 +30,7 @@ connectivityCheck: true # whether you want to display a message when the apps ar
 
 # Optional: Proxy / hosting option
 proxy:
-  useCredentials: false # send cookies & authorization headers when fetching service specific data. Set to `true` if you use an authentication proxy. Can be overrided on service level. 
+  useCredentials: false # send cookies & authorization headers when fetching service specific data. Set to `true` if you use an authentication proxy. Can be overridden on service level. 
 
 # Set the default layout and color scheme
 defaults:
